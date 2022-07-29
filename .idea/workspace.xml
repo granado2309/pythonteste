@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="80573818-7ec1-4ae9-8af0-f6cd291192fa" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula007b.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula007b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula007c.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula007c.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aula007d.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula007d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula007e.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula007e.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +28,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CG6T3OH2N5TN0x379LOmOROARC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,7 +43,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/bruno/PycharmProjects/pythonteste&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.aula007d">
+  <component name="RunManager" selected="Python.aula007e">
     <configuration name="aula007a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonteste" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula06b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula007e" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonteste" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +140,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula06b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula007e.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula007e" />
         <item itemvalue="Python.aula007d" />
         <item itemvalue="Python.aula007c" />
         <item itemvalue="Python.aula007b" />
         <item itemvalue="Python.aula007a" />
-        <item itemvalue="Python.aula06b" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659007582698</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1659008852685</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659008852685</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
